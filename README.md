@@ -6,4 +6,4 @@ To have a better understanding of what variables are more dominant, we created a
 
 ###Data Frame image
 
-[!Pyber_fare_summary] (https://github.com/lina2285/PyBer_analysis/blob/main/Pyber_Resources/Pyber_fare_summary.png)
+![Pyber_fare_summary](https://github.com/lina2285/PyBer_analysis/blob/main/Pyber_Resources/Pyber_fare_summary.png)
