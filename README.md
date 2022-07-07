@@ -20,6 +20,6 @@ Based on the information gathered, we recommend the following:
 
 * Do a deeper analysis of the average fare in urban cities to understand the low averages. As previously mentioned, some probable causes could be many drivers available or the shorter distances traveled. If the number of drivers is causing the lower fares, we recommend coming up with a way of letting drivers know which areas are more populated with drivers. Perhaps a heatmap that shows where most drivers are will assist other drivers in planning their day accordingly. If the issue is the distance traveled, a price restructure could be a probable solution
 
-* We also recommend doing a more profound research on what is causing the lower rides in the rural and suburban areas. Since these areas are not as populated, some incentives might need to be considered to get more customers to use the service. 
+* We also recommend doing a more profound research on what is causing the lower number of rides in the rural and suburban areas. Since these areas are not as populated, some incentives might need to be considered to get more customers to use the service. 
 
 * Lastly, based on the chart in figure 2, it is essential to understand the reasons for the higher peaks and dips. If the changes are being caused by holidays or specific events, it is crucial that planning for either more or fewer drivers is conducted based on the historical data. Such planning will help the company be more profitable and efficient. 
